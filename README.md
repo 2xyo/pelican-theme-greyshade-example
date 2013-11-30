@@ -1,0 +1,2 @@
+pelican-theme-greyshade-example
+===============================
