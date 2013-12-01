@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://pelican-theme-greyshade-example.yohann.lepage.info/sitemap.xml
